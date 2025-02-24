@@ -1,4 +1,4 @@
-package java_projetos.ProjetosJava.calculadora.main;
+package ProjetosJava.Calculadora_simples;
 
 import java.util.Scanner;
 

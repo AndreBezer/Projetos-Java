@@ -1,4 +1,4 @@
-package Projetos.jogoAdivinhacao;
+package ProjetosJava.JogoAdivinhacao;
 
 // Import
 import java.util.Scanner;
